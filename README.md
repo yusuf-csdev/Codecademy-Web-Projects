@@ -1,2 +1,2 @@
-# Personal-Web-Projects
+# Codecademy-Web-Projects
 Web projects created while learning full stack web development
